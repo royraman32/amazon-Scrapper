@@ -1,0 +1,23 @@
+name:
+    css: '#productTitle'
+    type: Text
+price:
+    css: '.a-price-whole'
+    type: Text
+short_description:
+    css: '#featurebullets_feature_div'
+    type: Text
+rating:
+    css: 'span.a-size-base a-color-base'
+    type: Text
+number_of_reviews:
+    css: '#acrCustomerReviewText'
+    type: Text
+
+product_description:
+    css: '.detailBullets_feature_div'
+    type: Text
+
+link_to_all_reviews:
+    css: 'div.card-padding a.a-link-emphasis'
+    type: Link
